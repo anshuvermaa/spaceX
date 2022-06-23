@@ -11,7 +11,7 @@ COPY server/package*.json server/
 
 COPY client/package*.json client/
 
-USER node
+USER node 
 
 RUN npm run install-client --only=production
 
