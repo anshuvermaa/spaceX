@@ -1,1 +1,1 @@
-# ]A space project
+# A space project
